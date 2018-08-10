@@ -49,7 +49,7 @@ The first implementation of emoji support was introduced in CKEditor 4.10, and t
 
 ## Emoji Demo
 
-See the ["Mentions, Tags and Emoji" sample](https://sdk.ckeditor.com/samples/mentions.html) that shows an example of emoji used together with the mentions feature.
+See the {@linksdk mentions "Mentions, Tags and Emoji" sample} that shows an example of emoji used together with the mentions feature.
 
 ## Related Features
 
